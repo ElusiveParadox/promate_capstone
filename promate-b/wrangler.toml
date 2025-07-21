@@ -1,0 +1,11 @@
+name = "promate-b"
+main = "src/index.ts"
+compatibility_date = "2025-05-05"
+observability = true
+
+[vars]
+OPENAI_API_KEY = "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"
+
+[[bindings]]
+type = "ai"
+name = "AI"
