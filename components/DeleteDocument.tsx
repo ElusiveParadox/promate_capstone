@@ -47,7 +47,7 @@ function DeleteDocument() {
             <DialogHeader>
               <DialogTitle>Are you sure you want to Delete?</DialogTitle>
               <DialogDescription>
-                This will delete the document and all it's contents, removing all user's from the document.
+                This will delete the document and all its contents, removing all users from the document.
               </DialogDescription>
             </DialogHeader>
             <DialogFooter className="sm:justify-end gap-2">
