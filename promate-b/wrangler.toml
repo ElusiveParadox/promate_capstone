@@ -4,6 +4,7 @@ compatibility_date = "2025-05-05"
 observability = true
 
 [vars]
+
 OPENAI_API_KEY = "{{OPENAI_API_KEY}}"
 
 [[bindings]]
